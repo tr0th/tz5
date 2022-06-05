@@ -1,0 +1,6 @@
+Использую Kali Linux
+
+a) sudo chmod a+rwx /var/logs/archive
+b) tar xvzf backup.tar.gz
+c) rm -i *.tmp
+d) grep -Ril "user deleted" /
